@@ -1,0 +1,19 @@
+
+a{
+    color: #EFECEC;
+    text-decoration: none;
+}
+
+.menu{
+    color: #EFECEC;
+    justify-content: center;
+}
+li{
+    list-style-type: none;
+}
+ul{
+    background-position: center;
+}
+.TAB{
+    font-size: 20px;
+}
